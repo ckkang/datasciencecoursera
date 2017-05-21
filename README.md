@@ -1,2 +1,0 @@
-# datasciencecoursera
-project1homework
